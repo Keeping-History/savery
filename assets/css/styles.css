@@ -1,0 +1,19 @@
+#captionsHolder {
+    height: 2em;
+    overflow:auto;
+    display:flex;
+    flex-direction:column-reverse;
+    position: relative;
+    top: -2em;
+    z-index: 0;
+}
+
+.transcript_playback_timestamp, .transcript_playback_text {
+    background: black;
+    color: yellow;
+
+}
+
+.mainPlayer {
+    width: 100%;
+}
