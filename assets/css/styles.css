@@ -17,3 +17,7 @@
 .mainPlayer {
     width: 100%;
 }
+
+.row {
+    margin-top: 1em;
+}
